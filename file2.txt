@@ -1,3 +1,5 @@
 this is my second file.
 git add file2.txt asda.txt etc . 
 for many files 
+
+modifing for git again 
